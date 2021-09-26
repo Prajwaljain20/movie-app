@@ -91,5 +91,12 @@ main{
     transform: translateY(0);
 }
 .home{
-    color:#fff;
+    color: #fff;
+    font-family: inherit;
+    background-color: transparent;   
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
 }
