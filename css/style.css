@@ -90,3 +90,6 @@ main{
 .movie:hover .overview{
     transform: translateY(0);
 }
+.home{
+    color:#fff;
+}
